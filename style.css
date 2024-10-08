@@ -1,0 +1,156 @@
+/*-----------------------chapter 2 page 1 --------------------------------------*/
+
+body{ font-family: 'raleway', sans-serif;
+       font-family: 'Open Sans', sans-serif;	   
+background-color:white;}
+
+h4{ font-weight:700; }
+
+/*---------------------------------Div----------------------------------------*/
+#page1{ text-align: center; ;
+ text-decoration: underline;font-size: xx-large; 
+}
+#chaptercontent{box-shadow: 0px 0px 10px 2px grey;border: 10px solid black;width: 40% ;position: relative;top: 3px; left: 450px; color: black; font-weight:200;height: 290px;top: 25px;font-weight: 200;}
+
+#firstpart{height: 300px;font-weight: 200;}
+
+.franklyn{background-color: black;}
+
+
+/*----------------------------------paragraph-----------------------------*/
+#para1{text-align: center;font-style: italic;font-weight:200;}
+
+#para2{position: relative;top: 100px;text-align: center}
+
+#para3{position: relative;top: 160px;text-align: center}
+
+#para4{position: relative;top: 220px;text-align: center}
+
+#para5{position: relative;top: 280px;text-align: center}
+
+#para6{position:relative;top: 340px;text-align: center}
+
+#para7{position: relative;top: 400px;text-align: center}
+
+#para8{position: relative;top: 450px;box-shadow: 0px 0px 10px 2px grey;border: 10px solid white ;}
+
+#para9{position: relative;top: 510px; text-align: center;font-weight: 200;}
+
+#para10{position: relative;width: 40%;top: 190px;left: 800px;font-weight: 200}
+
+#para11{position: relative;width: 40%;top: 340px;left: 800px;font-weight: 200;}
+
+#para12{position: relative;width: 40%;top: 470px;left: 800px;font-weight: 200}
+
+#para13{position: relative;width: 40%;top: 790px;left: 800px;font-weight: 200;}
+
+#para14{position: relative;width: 40%;top: 1070px;left: 800px;font-weight:200}
+
+#para15{position: relative;width: 40%;left: 800px;top: 1320px;font-weight: 200;}
+
+#conclusion2{position: relative;top: 1630px;width: 40%;text-align: center;left: 450px;box-shadow: 0px 0px 10px 2px grey;border: 10px solid black;font-weight:200;}
+
+/*----------------------------------header------------------------------*/
+#header1{position: relative;top: 90px;color: white;text-align: center;margin: 0px;padding: 50px;overflow: hidden;background-color:#333;font-size:large;background-image: linear-gradient(black,grey) }
+
+.header2{position: relative;top: 150px;text-align: center;;width:60%;margin: 0px;padding: 10px;left: 250px;;text-decoration: underline; font-size:xx-large; }
+
+.header3{position: relative;top: 200px;text-align: center; width: 60%;margin: 0px;padding: 10px;left: 250px;;text-decoration: underline;font-size: xx-large}
+
+.header4{position: relative; top:250px; text-align: center;;width: 60%;margin: 0px;padding: 10px;left: 250px;text-decoration: underline;font-size: xx-large}
+
+.header5{position: relative; top:300px; text-align: center;width: 60%;margin: 0px;padding: 10px;left: 250px; text-decoration: underline;font-size: xx-large}
+
+.header6{position: relative;top: 350px;color: white;text-align: center;margin: 0px;padding: 20px;overflow: hidden;background-color:#dddd;background-image: linear-gradient(black,grey)}
+
+.header7{position: relative;top: 450px;color: white;text-align: center;margin: 0px;padding: 20px;overflow: hidden;background-color:#dddd;background-image: linear-gradient(black,grey)}
+
+
+.header8{ text-align: center; font-size:xx-large;position:relative;top: -150px; font-weight: 300;font-style: italic;text-shadow: 0px 0px 10px white}
+
+.header9{;width: 10%;position: relative;left: 1050px;top: 180px;text-decoration: underline; font-weight: 700}
+
+.header10{;width: 10%;position: relative;left: 1050px;top: 290px;text-decoration: underline;font-weight: 700;}
+
+.header11{width: 10%;position: relative;left: 1050px;top: 800px;text-decoration: underline;font-weight: 700;}
+
+.header12{;width: 10%;position: relative;left: 1050px;top: 1120px;text-decoration: underline;font-weight: 700;}
+
+.header13{width: 10%;position: relative;left: 1050px;top: 1380px; text-decoration: underline;font-weight: 700;}
+
+.header14{width: 10%;position: relative;left: 1050px;top: 1640px;text-decoration: underline;font-weight: 700;}
+
+
+
+/*---------------------------------videos and images------------------------*/
+.vid1{height: 400px;position: relative;top: 600px; border-radius:20px;left: 5px}
+.vid2{height: 400px;position: relative;top: 700px;border-radius:20px;left: 5px}
+.vid3{height: 400px;position: relative;top: 800px;border-radius:20px;left: 5px}
+.vid4{height: 400px;position: relative;top: 1100px;border-radius:20px;left: 5px}
+.vid5{height: 400px;position: relative;top: 1350px;border-radius:20px;left: 5px}
+.vid6{height: 400px;position: relative;top: 1600px;border-radius:20px;left: 
+5px}
+
+
+
+/*----------------------------------footer-------------------------------------*/
+
+.footer1{position: relative;top: 1700px;text-align: center}
+
+
+/*-------------------------------End of chapter 2 page 1---------------------*/
+
+
+/*--------------------------------chapter 2 page 2--------------------------*/
+h2{width: 30%; position: relative;top: 145px;left: 140px;color:white;font-style: italic;font-weight: 700;}
+h3{text-align: center;position: relative;top: 100px;font-style: italic;height: 130px;color: aliceblue;}
+
+/*-----------------------------------CLASS----------------------------------*/
+.header15{text-align: center; ;
+ text-decoration: underline;font-size: xx-large;}
+
+.img1{height: 300px; width: 400px;position: relative;left: 900px;top: -120px;box-shadow: 0px 0px 10px grey;}
+
+.section3{height: 200px; background-color: aliceblue;font-weight:200 }
+
+
+.section4{background-color: aliceblue;height: 220px}
+
+.header16{text-align: center;font-weight: 200;font-size: xx-large;position: relative;top: -540px;font-style: italic;text-shadow: 0px 0px 10px white}
+
+
+.header17{text-align: center;height: 200px; color: black; position: relative; top: 180px;text-decoration: underline; font-size:x-large;}
+/*-----------------------------------ID-------------------------------------*/ #divpage2{position: relative;top: 1px;height: 500px;box-shadow: 0px 0px 10px 2px white;border: 10px  black;background-color: grey;background-image: linear-gradient(black,white)}
+
+#para1page2{width: 30%;position: relative;top: 185px;left: 125px;text-shadow: 0px 0px 10px white;color: white;}
+
+#divnum3{position: relative;top: 1px;height: 500px;box-shadow: 0px 0px 10px 2px white;border: 10px  black;background-color: grey;background-image: linear-gradient(white,black)}
+
+#divnum4{position: relative;top: 1px;height: 800px;box-shadow: 0px 0px 10px 2px white;border: 10px  black;background-color: grey;background-image: linear-gradient(white,black)}
+#h3num1{}
+
+#conclusion3{position: relative;top: 55px;width: 40%;text-align: center;left: 450px;box-shadow: 0px 0px 10px 2px grey;border: 10px solid black;font-weight:200;}
+
+
+
+#para2page2{position: relative;top: 130px;font-weight: 200;text-align: center}
+
+#carouselExampleControls{position: relative;top: 400px}
+
+#carouselExampleControls2{position: relative;top: 5px;}
+
+/*----------------------------------list tags--------------------------------*/
+.list1{padding-bottom: 6em;color: black;position: relative;top: 40px;}
+.list1{list-style-type: square;font-weight: 200}
+.list1{list-style-type:circle}
+
+.list2{padding-bottom: 6em;position: relative;font-family: 'raleway', sans-serif; font-family: 'Open Sans', sans-serif;}
+
+.footer2{position: relative;top: 150px;text-align: center;background-color: grey;padding: 5px;text-align: center;color: white}
+
+.footer1{position: relative;text-align: center;background-color: grey;padding: 5px;text-align: center;color: white;}
+
+/*----------------------------------images and videos-----------------------*/
+/*----------------------------------buttton styling-----------------------*/\
+#more{display: none;}
+#myBtn{text-align: center;position: relative;left: 650px;top: 130px;border-radius: 2px;color: #3498db; hover #fff;padding: 10px 20px;}
